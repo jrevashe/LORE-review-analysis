@@ -1,0 +1,6 @@
+uid,field,value,reason
+sephora:397887979,fades,0,"Label quote not in review; review says ""Stays on all day"" (found by verify_reviews.py, re-read 2026-10-21)"
+sephora:384320441,fades,0,"Label quote not in review; review praises it as subtle with no complaint (re-read 2026-10-21)"
+sephora:384076502,fades,0,"Label quote not in review; review dislikes the smoke and citrus but says nothing about fading (re-read 2026-10-21)"
+sephora:384013526,fades,0,"Label quote not in review; review says it lasts all night (re-read 2026-10-21)"
+fragrantica:parent3213365,fades,0,"Label quote not in review; review says it lasts all day on clothes (re-read 2026-10-21)"

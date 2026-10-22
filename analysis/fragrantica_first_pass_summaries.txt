@@ -1,0 +1,336 @@
+# Fragrantica user reviews of LORE, collected 2026-10-21, paraphrased.
+# Columns: scent|date MM/DD/YY|sentiment P/N/M/U|performance W weak, L long-lasting|flags|summary
+# Flags: K = liked on strip/tester/in store, worse on skin; C = cigarette/ashtray/BBQ off-note;
+#        D = compares to another fragrance (dupe talk); X = didn't smell as marketed/expected;
+#        S = story, memory or place language
+Sublimity|09/19/26|P|||light mineral coconut, marine salty, fresh
+Sublimity|09/17/26|M|||realistic beach skin, slight sunscreen, wouldn't wear
+Sublimity|09/16/26|P|||classic fresh sunscreen scent
+Sublimity|09/03/26|P||D|after-shower scent like Skin by Clean Reserve
+Sublimity|09/01/26|P|W||creamy salty coconut water, needs reapplication, affordable
+Sublimity|08/28/26|M|W||subtle coconut water, short longevity, respray on hot days
+Sublimity|08/24/26|N|W||very hard to smell on skin
+Sublimity|08/23/26|M|W|D|like Hawaiian Tropic sunscreen, light and faint
+Sublimity|08/23/26|N||S|smells like Malibu, bad night out memory
+Sublimity|08/23/26|P|||ocean breeze summer, good value
+Sublimity|08/15/26|M|||ozone salt incense, crystal shop
+Sublimity|08/15/26|N|W||can barely smell it
+Sublimity|08/07/26|P|L||smells themselves all day
+Sublimity|08/06/26|P|||beachy coconut, daily wear
+Sublimity|08/05/26|M|W||fresh summer but sits too close to skin
+Sublimity|08/01/26|N|W||could not smell it at all
+Sublimity|07/29/26|M|W||loves beachy skin scent, doesn't last long
+Sublimity|07/29/26|N|W||smells like nothing on skin
+Sublimity|07/27/26|N|W||becomes skin scent instantly then disappears
+Sublimity|07/26/26|P|L||light clean easy, sniffs it all day
+Sublimity|07/26/26|P|||creamy intimate soft skin scent
+Sublimity|07/22/26|M|W||very faint, travel size ran out fast
+Sublimity|07/21/26|P||D|like 7 Virtues Coconut Sun but better
+Sublimity|07/18/26|M||D|heavy coconut ylang like Rosie Jane Missy, sample first
+Sublimity|07/13/26|P|||smells like a baby's head, in a good way
+Sublimity|07/12/26|N|W||barely picks up notes, underwhelming
+Sublimity|07/10/26|M|W||loves it, wishes more projection and longevity
+Sublimity|07/09/26|P||S|fresh clean, sunscreen memory, layers well
+Sublimity|07/06/26|N|||heavily sweet, not for them
+Sublimity|07/06/26|P|||airy salty coconut water, safe blind buy
+Sublimity|07/02/26|P|||clean beach body wash
+Sublimity|07/02/26|P|||solar musky coconut for hot days
+Sublimity|06/21/26|P|||coconut water sea salt skin musk
+Sublimity|06/20/26|P|||bought travel size, will buy full bottle
+Sublimity|06/16/26|P||S|classy, evokes a beach day
+Sublimity|05/28/26|M|||headache if over-sprayed, keeps it for the bottle
+Sublimity|05/27/26|M|W||perfect summer skin scent, wishes louder and longer
+Sublimity|05/27/26|M|W||good value, wishes stronger
+Sublimity|05/26/26|P||S|like Dove bar soap, nostalgic
+Sublimity|05/14/26|M|W||crisp cool water, wishes it lasted longer
+Sublimity|05/06/26|N||X|much powderier than expected
+Sublimity|05/03/26|U|||baby powder and baby cream
+Sublimity|04/27/26|U|||gentle salty floral coconut
+Sublimity|04/10/26|P|||beachy subtle year-round
+Sublimity|04/09/26|M|W||too light and intimate for them
+Sublimity|04/04/26|P|||simple, easy to wear
+Sublimity|03/29/26|M|||finished sample, won't buy full bottle
+Sublimity|03/21/26|P||S|subtle ozonic salty, breeze on a boat
+Sublimity|03/19/26|N||K|only coconut, felt more complex in store
+Sublimity|03/15/26|M|||shampoo-like inoffensive, wanted depth
+Sublimity|03/06/26|N|W||very sheer, poor longevity, didn't buy
+Sublimity|03/05/26|P|||pretty soft beachy, wants full bottle
+Sublimity|02/24/26|P|L||clean soft cloud, lasts fairly well
+Sublimity|02/16/26|N||K|loved Sephora tester, wear test smelled artificial
+Sublimity|01/22/26|M|||typical beachy solar floral
+Sublimity|01/21/26|P|||salty coconut water
+Sublimity|01/03/26|M|||calming musky coconut, not love
+Sublimity|12/27/25|P|||coconut sunscreen, good summer scent
+Sublimity|12/18/25|P|L|D|musky like Light Blue, surprisingly long wear
+Sublimity|11/10/25|M|W||loves salt skin musk, poor longevity
+Sublimity|11/06/25|P|W||airy skin scent, almost no sillage, worth price
+Sublimity|10/28/25|N||X|could only detect coconut
+Sublimity|10/24/25|N||X|smells only like sunscreen
+Sublimity|10/20/25|N|W||could not detect it on a tester strip
+Sublimity|10/20/25|N|W||cannot smell it even double-spraying
+Sublimity|10/10/25|P|||likes the musk
+Sublimity|10/09/25|M|||pleasant, not unique
+Sublimity|10/03/25|N|||loves first spray, turns dirty within minutes
+Sublimity|09/26/25|N||K|too sunscreen-like on skin
+Sublimity|09/26/25|M|L|D|like Missing Person, good longevity
+Sublimity|09/26/25|P|||sheer solar musk
+Sublimity|09/25/25|N|||underwhelming, floral sour on them
+Sublimity|09/24/25|P||D|like BBW Saltwater Breeze
+Sublimity|09/23/25|M||S|smells like a Sydney rock pool
+Sublimity|09/19/25|P|L||projects and lasts 6+ hours
+Sublimity|09/15/25|P|L||lasts on skin, not clothes
+Sublimity|09/12/25|P|||favorite of the group
+Disfruta||M|||mostly smoky, unsure when to wear
+Disfruta|10/08/26|N||C|smoked brisket and barbecue sauce
+Disfruta|09/24/26|M||S|passionfruit mezcal margarita, for a tropical trip
+Disfruta|09/22/26|N||C|barbecued meat
+Disfruta|09/22/26|M|W|C|sweetness fades fast, cigarette-like smoke
+Disfruta|09/19/26|M|||good opening, harsh drydown
+Disfruta|09/17/26|P||S|smoky citrus cocktail, dim speakeasy
+Disfruta|09/11/26|N||C|cigarette smoke and tequila, harsh on skin
+Disfruta|08/24/26|P|||tropical mezcal drink
+Disfruta|08/23/26|N||C|heavy smoke under fruity perfume, ashy
+Disfruta|08/19/26|P|L||won over, 9+ hours, bought travel size
+Disfruta|08/11/26|N||C|charred leather boots with fruit punch
+Disfruta|08/08/26|N||S|drunk ex coming home from a bar
+Disfruta|07/29/26|N||C|cigarettes and cheap fruity perfume
+Disfruta|07/12/26|N|W||weak, more marketing than perfumery
+Disfruta|07/11/26|N||C|clementine with stale cigarette smoke
+Disfruta|07/01/26|P|||loved at Sephora, favorite of the four
+Disfruta|06/11/26|P||S|desert town at twilight, cold drink
+Disfruta|06/03/26|P|||passionfruit mezcal margarita, will wear often
+Disfruta|04/27/26|P||S|comforting, evokes missing someone
+Disfruta|04/19/26|M|W|CS|booze and cigarettes, nostalgic, doesn't last
+Disfruta|04/13/26|N||C|unwashed walls of a smoker's home
+Disfruta|04/11/26|P||S|summer night out
+Disfruta|03/29/26|M|||cool, unsure where to wear
+Disfruta|03/21/26|N|||boozy syrupy sangria
+Disfruta|03/19/26|N||C|stale cigarette or burnt rubber
+Disfruta|03/14/26|M|||fruity sharp, slightly synthetic
+Disfruta|03/07/26|P|||loved opening, buying travel size
+Disfruta|02/27/26|N||K|liked at first, sour and sticky on skin
+Disfruta|02/25/26|N|||dive bar margarita
+Disfruta|02/21/26|P|L||niche, lasts 10am to 4pm
+Disfruta|02/04/26|P|||loves it
+Disfruta|02/03/26|U|||smells like a shampoo
+Disfruta|01/24/26|P|||fruity citrus soft drink
+Disfruta|01/23/26|N||CX|passionfruit faint, cigarettes, hard pass
+Disfruta|01/19/26|M||CS|ashy smoke in a dim bar
+Disfruta|01/11/26|N||C|cigarettes and citrus
+Disfruta|01/11/26|M|||synthetic, but best of the line
+Disfruta|12/31/25|M||C|a cigarette after eating an orange
+Disfruta|12/27/25|N|||strong mezcal, not a summer scent
+Disfruta|12/07/25|N|||doesn't want to smell like mezcal
+Disfruta|12/01/25|M|||unique but too specific, praises pricing
+Disfruta|11/30/25|M|W||sexy smoky, weak sillage and longevity
+Disfruta|11/28/25|N||C|smoke smells like cigarettes on them
+Disfruta|11/26/25|N|||smells like a casino
+Disfruta|11/24/25|M||C|love and hate, strong cigarette note
+Disfruta|11/15/25|N|||gross
+Disfruta|10/18/25|N||CS|citrus and cigarettes, a smoker's car
+Disfruta|10/12/25|P|||unique sexy, getting full size
+Disfruta|10/10/25|M||C|strong smoke grew on them
+Disfruta|10/09/25|M||C|passionfruit and cigarette smoke, not a blind buy
+Disfruta|10/05/25|N||C|smoke exactly like cigarettes
+Disfruta|09/26/25|P||S|beach bonfire ash drydown
+Disfruta|09/25/25|P||C|best of line, ashtray drydown is fine
+Disfruta|09/22/25|N||CK|liked initially, cigarettes on skin, returned
+Disfruta|09/20/25|N||C|paloma to dirty ashtray
+Disfruta|09/19/25|N||C|sweet fruit and cigarette smoke on skin
+Disfruta|09/15/25|N||C|smoky barbecue fruit
+Disfruta|09/12/25|N||C|least favorite, strong cigarettes on skin
+Lovely|09/22/26|P|||smoky creamy rose
+Lovely|09/21/26|N|||sweet pungent citrusy
+Lovely|09/21/26|P|||deep oud, airy rose, milky
+Lovely|09/21/26|P|||luxe clean versatile
+Lovely|09/17/26|M|||beautiful, not for them, selling bottle
+Lovely|09/17/26|M|||watery then powdery musky, mature
+Lovely|09/03/26|M|||smoky rose, headache past one spray
+Lovely|09/01/26|P|||milky rose pistachio, bought full bottle
+Lovely|08/25/26|M||X|box listed different notes
+Lovely|08/24/26|P|||loves it, travel bottle design
+Lovely|08/23/26|P|||dislikes florals but bought a bottle
+Lovely|08/17/26|P|||hates rose but very good
+Lovely|07/31/26|P|||sweet salty resinous rose
+Lovely|07/29/26|N|||smoky myrrh tobacco, not for them
+Lovely|07/29/26|M|||sickly sweet, growing on them
+Lovely|07/26/26|P|L||lasts a very long time
+Lovely|07/26/26|N||X|no rose or pistachio, plasticky
+Lovely|07/12/26|M|||brand's only decent one, quiet
+Lovely|07/07/26|M||K|lovely on paper, curdled on skin
+Lovely|06/22/26|M|||off at first, pleasant on skin
+Lovely|06/12/26|P||S|cold glass of rose milk with macarons
+Lovely|06/09/26|P|||signature-worthy
+Lovely|06/05/26|M|||good contrast, cloying, headache
+Lovely|05/28/26|P|||loved at Sephora
+Lovely|05/20/26|N|||drydown too sweet on skin
+Lovely|05/14/26|P|||wants full bottle
+Lovely|04/24/26|P|L||balanced, decent longevity
+Lovely|04/20/26|P|||cozy comforting
+Lovely|04/16/26|P|||woody ambery gourmand
+Lovely|04/14/26|U|||like a shampoo
+Lovely|04/09/26|M|W|K|interesting on strip, scrubbed off on skin
+Lovely|03/29/26|P|||name and notes fit
+Lovely|03/29/26|M|||too sweet for them
+Lovely|03/26/26|P|||packaging and price, non-generic
+Lovely|03/21/26|M||S|springtime coffee with friends
+Lovely|03/15/26|P||S|childhood memories of family
+Lovely|03/07/26|N||D|very similar to Tawahuj, returning
+Lovely|02/18/26|N||X|marketing misleading, soapy on skin
+Lovely|01/29/26|P|||improved in cold weather
+Lovely|01/26/26|N|W|X|no pistachio, sour, scrubbed off
+Lovely|01/19/26|P|||elevated pistachio gourmand
+Lovely|01/11/26|P|||sweet airy rose
+Lovely|01/02/26|U|||sugared apple in rose lemonade
+Lovely|12/27/25|N|||dislikes oud
+Lovely|12/21/25|N|||blind buy, cheap powdery forgettable
+Lovely|12/02/25|P|L||4+ hours on sleeve
+Lovely|11/29/25|M|W||faded in 30 minutes on skin
+Lovely|11/13/25|P||DS|Delina-like, Paris macaron memory
+Lovely|11/11/25|N||X|no creamy rose, don't blind buy
+Lovely|11/10/25|N||D|similar to She Was Here, not for them
+Lovely|11/08/25|P|||first amber scent they loved
+Lovely|11/05/25|P||DS|Delina Exclusif-like, rose falooda memory
+Lovely|11/03/25|P||S|scented childhood doll
+Lovely|11/03/25|P|||soft powdery rose gourmand
+Lovely|11/01/25|P|||intriguing, addictive
+Lovely|10/30/25|P|||affordable daily wear
+Lovely|10/28/25|P|||tested at Sephora, worth buying
+Lovely|10/12/25|N||D|nearly identical to Gulf Orchid Pistachio Musk
+Lovely|10/11/25|M|||more ambery on skin
+Lovely|10/09/25|P|||deep green floral creamy
+Lovely|09/29/25|U|||blind bought from note list
+Lovely|09/26/25|P|||dream perfume, value and bottle
+Lovely|09/26/25|P|||notes blend well
+Lovely|09/26/25|P||S|rosewater pistachio cookies memory
+Lovely|09/25/25|M||S|synthetic opening, scratch-and-sniff nostalgia
+Lovely|09/21/25|P|L||noticeable after 11 hours
+Lovely|09/20/25|N|||potpourri drydown, distrusts incentivized reviews
+Lovely|09/19/25|P|||green opening fades into beautiful
+Lovely|09/19/25|M|||soapy powdery drydown, close to skin
+Lovely|09/17/25|P||D|soft rose milk like She Was Here
+Lovely|09/15/25|N||K|loved on paper strip, spoiled milk on skin
+Lovely|09/12/25|P||S|tea-party dress-up nostalgia
+Somewhere|09/25/26|P|L|D|layered with Santal 33, lasts all day
+Somewhere|09/17/26|N|||too masculine
+Somewhere|09/05/26|P|||light leather, cardamom vanilla
+Somewhere|08/30/26|P|||fresh but grounded, unisex
+Somewhere|08/22/26|P||S|riverside rocks and book pages
+Somewhere|08/19/26|N||K|liked on Sephora strip, burnt rubber on skin
+Somewhere|07/30/26|N|||smells like dirt
+Somewhere|07/21/26|P||D|Santal 33-like then tea, 10/10
+Somewhere|07/12/26|N||D|dill pickle, mass-market dupe
+Somewhere|07/04/26|P||S|evokes Brokeback Mountain
+Somewhere|07/01/26|P||D|very Santal 33-like
+Somewhere|06/09/26|P|||favorite of the set
+Somewhere|06/08/26|P||S|makes them want to be a cowboy
+Somewhere|06/06/26|P||S|LA years, Joshua Tree in autumn
+Somewhere|05/29/26|P||D|Santal 33 with less screech
+Somewhere|05/08/26|P|||warm comforting, wear daily in fall
+Somewhere|05/05/26|P||D|what they wanted Santal 33 to be
+Somewhere|04/29/26|M|||fair price, chemical edges
+Somewhere|04/07/26|P||S|autumn meadow, tea, leather boots
+Somewhere|04/07/26|N||D|nearly identical to Target Jungle Santal
+Somewhere|03/29/26|N||KD|sour on skin, more Santal 33 on paper
+Somewhere|03/21/26|P||S|spicy cowgirl in an old bar
+Somewhere|03/14/26|M||SD|tan leather car seats memory
+Somewhere|02/03/26|N||D|sister to Glossier You Doux, not unique
+Somewhere|01/25/26|N|||straight cardamom, masculine
+Somewhere|01/25/26|P||D|Santal 33 family, nice
+Somewhere|01/22/26|P||D|Santal 33 with a cowboy twist
+Somewhere|01/21/26|M|||sour at first, warm drydown
+Somewhere|01/12/26|P||D|more than a Santal 33 dupe
+Somewhere|01/11/26|P|||would buy larger size
+Somewhere|01/02/26|N|||basic woody, doubts worth the price
+Somewhere|12/22/25|N|W||fades within hours
+Somewhere|12/10/25|P|||sample kit convinced them, bought travel size
+Somewhere|12/10/25|U|||keyword post
+Somewhere|11/20/25|N|||returned due to headaches
+Somewhere|11/05/25|P||D|Santal 33 fans will like it
+Somewhere|10/10/25|P|||favorite in discovery set
+Somewhere|10/07/25|N||D|tester gave Santal 33 and pickle
+Somewhere|10/01/25|P||D|like Le Labo, softer
+Somewhere|10/06/25|M|||just okay
+Somewhere|09/26/25|N|||barbershop aftershave, bug spray
+Somewhere|09/26/25|P|||multidimensional, sample provided
+Somewhere|09/25/25|N|||men's body spray in trendy packaging
+Somewhere|09/20/25|N||D|synthetic Le Labo dupe
+Somewhere|09/12/25|P|||heavenly woody
+Lil Softie|10/06/26|P|||likes it
+Lil Softie|10/02/26|P|W||low projection, compliments up close
+Lil Softie|09/30/26|M||D|minty peppery, like Byredo Mixed Emotions
+Lil Softie|09/29/26|P||D|cereal-milk Glossier You
+Lil Softie|09/22/26|P|||favorite in discovery set
+Lil Softie|09/21/26|N||X|candy-like, packaging set wrong expectations
+Lil Softie|09/19/26|M|W||cereal opening faded quickly
+Lil Softie|09/18/26|M|||soft creamy, office, not for them
+Lil Softie|09/17/26|P||D|clean creamy, like Inner Child
+Lil Softie|09/13/26|P|||buying larger size
+Lil Softie|09/08/26|P||S|nostalgic childhood memory
+Lil Softie|09/01/26|M|W||loves it, poor longevity
+Lil Softie|08/30/26|U||D|like Phlur Not Your Baby
+Lil Softie|08/25/26|N||D|dupe of Alto Astral and Glossier You
+Lil Softie|08/25/26|N|||musty biscuit
+Lil Softie|08/25/26|M|W||doesn't last, would still buy
+Lil Softie|08/25/26|P|||soft cozy milky
+Lil Softie|08/23/26|M||X|little cereal, not lactonic as expected
+Lil Softie|08/23/26|M|||body-spray-like, wouldn't pay full price
+Lil Softie|08/23/26|P|||warm white musk, nice price
+Lil Softie|08/21/26|P|L||6+ hours, first Lore they liked
+Lil Softie|08/21/26|M||X|lemon shortbread, not cereal
+Lil Softie|08/13/26|N|||wet insole base, overhyped
+Lil Softie|08/11/26|N|||sour cereal milk
+Lil Softie|08/10/26|P|||milky fruity skin scent, about 3 hours
+Lil Softie|08/10/26|M|W|D|sweet Glossier You, didn't last
+Lil Softie|08/09/26|N|W|X|10 minutes of wear, falsely advertised
+Lil Softie|08/06/26|P||D|blind bought, loves it
+Lil Softie|08/03/26|U||D|Glossier You Fleur with cereal milk
+Lil Softie|08/02/26|U|||musky Froot Loops
+Lil Softie|07/31/26|P||S|spilled cereal childhood memory
+Lil Softie|07/31/26|M|W|X|not really gourmand, opening fades
+Lil Softie|07/29/26|N|||travel size disappointing
+Lil Softie|07/29/26|M|||cute, wouldn't wear out
+Lil Softie|07/26/26|P|W|D|opening doesn't last, buying full bottle
+Lil Softie|07/25/26|P|||milky skin scent improves
+Lil Softie|07/25/26|N||K|tested at Sephora, musty drydown
+Lil Softie|07/25/26|M|||not their vibe
+Lil Softie|07/24/26|P|||bought right after testing
+Lil Softie|07/24/26|M|||pretty, not special
+Lil Softie|07/22/26|N||X|fruitier than expected
+Lil Softie|07/22/26|P|W|D|cozier Glossier You, fades after 30 min
+Lil Softie|07/20/26|P|W||fades quickly, 9/10, plans to buy
+Lil Softie|07/18/26|P|||buying a backup
+Lil Softie|07/17/26|U|||lemon pie opening
+Lil Softie|07/17/26|N|W||poor longevity, overpriced vs body mists
+Lil Softie|07/16/26|U|||chalky peppermint on strip
+Lil Softie|07/15/26|M|W||loves scent, body mist performance
+Lil Softie|07/15/26|U|W|D|opening fades in 30 min, then like Father Figure
+Lil Softie|07/15/26|U|||opening lasts minutes, then lasting skin scent
+Lil Softie|07/14/26|P||S|cozy morning cereal memory
+Lil Softie|07/14/26|P|||10/10, bright citrus musk
+Lil Softie|07/14/26|M|W||top notes vanish in 10 minutes
+Lil Softie|07/14/26|U||X|expected musk, got Froot Loops
+Lil Softie|07/13/26|P|||first Lore they enjoy
+Lil Softie|07/12/26|U||D|like a lemon blueberry body scrub
+Lil Softie|07/12/26|P|||buying full bottle for work
+Lil Softie|07/10/26|P|||bought travel size
+Lil Softie|07/10/26|P|||standout of the collection
+Lil Softie|07/09/26|N|W||fades to faint milk, poor longevity
+Lil Softie|07/09/26|P|||subtle, prefers low projection
+Lil Softie|07/09/26|U|W|D|cereal lasts 2 minutes, then milky sandalwood
+Lil Softie|07/09/26|P|||good-value skin scent
+Lil Softie|07/09/26|P||X|marketing misleading but loved, bought full bottle
+Lil Softie|07/09/26|P||D|like Glossier You without pepper
+Lil Softie|07/08/26|P|||intimate, smells great
+Lil Softie|07/08/26|M|W|D|Glossier You for 30 seconds, no sillage
+Lil Softie|07/08/26|P|||skin musk and milk
+Lil Softie|07/08/26|M|W||wishes longer longevity
+Lil Softie|07/08/26|P|||obsessed
+Lil Softie|07/08/26|N||XD|no cereal or milk, like Father Figure
+Lil Softie|07/08/26|P||D|for skin-scent fans
+Lil Softie|07/08/26|U|W||opening lasts 10 min even after 6 sprays
+Lil Softie|07/07/26|U||D|layer for longer milk
+Lil Softie|07/07/26|N|W||lasted two seconds
+Lil Softie|07/07/26|M|W||wished the milk lasted longer
+Lil Softie|06/30/26|N|W||10 minutes of cereal, then synthetic musk
+Lil Softie|06/23/26|P|||need it
